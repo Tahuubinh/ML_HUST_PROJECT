@@ -1,71 +1,71 @@
-Species,Island,Clutch Completion,Culmen Length (mm),Culmen Depth (mm),Flipper Length (mm),Body Mass (g),Sex,Delta 15 N (o/oo),Delta 13 C (o/oo),Comments
-Adelie Penguin (Pygoscelis adeliae),Dream,Yes,38.3,19.2,189.0,3950.0,MALE,9.07826,-26.12417,
-Chinstrap penguin (Pygoscelis antarctica),Dream,Yes,51.5,18.7,187.0,3250.0,MALE,9.6895,-24.43062,
-Adelie Penguin (Pygoscelis adeliae),Biscoe,Yes,35.3,18.9,187.0,3800.0,FEMALE,9.21292,-24.3613,
-Adelie Penguin (Pygoscelis adeliae),Dream,Yes,40.3,18.5,196.0,4350.0,MALE,8.39459,-26.01152,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,44.0,13.6,208.0,4350.0,FEMALE,8.01979,-26.68311,
-Chinstrap penguin (Pygoscelis antarctica),Dream,No,50.6,19.4,193.0,3800.0,MALE,9.28153,-24.97134,
-Adelie Penguin (Pygoscelis adeliae),Dream,Yes,32.1,15.5,188.0,3050.0,FEMALE,8.79787,-26.61075,
-Adelie Penguin (Pygoscelis adeliae),Torgersen,Yes,36.7,18.8,187.0,3800.0,FEMALE,7.88494,-26.24837,
-Adelie Penguin (Pygoscelis adeliae),Torgersen,Yes,38.6,17.0,188.0,2900.0,FEMALE,9.18021,-25.77264,
-Chinstrap penguin (Pygoscelis antarctica),Dream,Yes,46.4,17.8,191.0,3700.0,FEMALE,9.37369,-24.52896,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,49.4,15.8,216.0,4925.0,MALE,8.03624,-26.06594,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,50.5,15.9,222.0,5550.0,MALE,8.46894,-26.60436,
-Adelie Penguin (Pygoscelis adeliae),Torgersen,Yes,39.0,17.1,191.0,3050.0,FEMALE,9.19031,-25.73722,
-Adelie Penguin (Pygoscelis adeliae),Torgersen,No,38.9,17.8,181.0,3625.0,FEMALE,9.18718,-25.21799,Nest never observed with full clutch.
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,49.3,15.7,217.0,5850.0,MALE,8.07137,-25.52473,
-Adelie Penguin (Pygoscelis adeliae),Biscoe,Yes,37.7,18.7,180.0,3600.0,MALE,8.66271,-25.0639,
-Adelie Penguin (Pygoscelis adeliae),Torgersen,Yes,45.8,18.9,197.0,4150.0,MALE,8.18658,-26.45978,
-Chinstrap penguin (Pygoscelis antarctica),Dream,Yes,50.5,19.6,201.0,4050.0,MALE,9.8059,-24.7294,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,50.7,15.0,223.0,5550.0,MALE,8.63551,-26.74249,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,44.5,15.7,217.0,4875.0,.,8.04111,-26.18444,
-Adelie Penguin (Pygoscelis adeliae),Dream,Yes,37.3,16.8,192.0,3000.0,FEMALE,9.06829,-25.85203,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,46.4,15.6,221.0,5000.0,MALE,8.35078,-26.70783,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,45.2,16.4,223.0,5950.0,MALE,8.19749,-26.65931,
-Adelie Penguin (Pygoscelis adeliae),Torgersen,Yes,39.5,17.4,186.0,3800.0,FEMALE,8.94956,-24.69454,
-Adelie Penguin (Pygoscelis adeliae),Torgersen,No,39.2,19.6,195.0,4675.0,MALE,9.4606,-24.89958,Nest never observed with full clutch.
-Adelie Penguin (Pygoscelis adeliae),Biscoe,Yes,38.2,20.0,190.0,3900.0,MALE,9.59245,-25.70711,
-Chinstrap penguin (Pygoscelis antarctica),Dream,Yes,46.0,18.9,195.0,4150.0,FEMALE,8.47173,-24.29229,
-Gentoo penguin (Pygoscelis papua),Biscoe,No,49.0,16.1,216.0,5550.0,MALE,8.10417,-25.50562,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,46.2,14.5,209.0,4800.0,FEMALE,7.84057,-25.37899,
-Chinstrap penguin (Pygoscelis antarctica),Dream,Yes,47.5,16.8,199.0,3900.0,FEMALE,9.07825,-25.1455,
-Adelie Penguin (Pygoscelis adeliae),Torgersen,No,36.2,17.2,187.0,3150.0,FEMALE,9.04296,-26.19444,Nest never observed with full clutch.
-Adelie Penguin (Pygoscelis adeliae),Torgersen,Yes,41.1,17.6,182.0,3200.0,FEMALE,,,Not enough blood for isotopes.
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,45.0,15.4,220.0,5050.0,MALE,8.63488,-26.75621,
-Adelie Penguin (Pygoscelis adeliae),Dream,Yes,41.1,17.5,190.0,3900.0,MALE,8.94365,-26.06943,
-Chinstrap penguin (Pygoscelis antarctica),Dream,Yes,42.4,17.3,181.0,3600.0,FEMALE,9.35138,-24.6879,
-Adelie Penguin (Pygoscelis adeliae),Torgersen,Yes,40.3,18.0,195.0,3250.0,FEMALE,8.36821,-25.33302,
-Adelie Penguin (Pygoscelis adeliae),Dream,Yes,39.2,18.6,190.0,4250.0,MALE,9.11006,-25.79549,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,48.1,15.1,209.0,5500.0,MALE,8.45738,-26.22664,
-Chinstrap penguin (Pygoscelis antarctica),Dream,Yes,52.2,18.8,197.0,3450.0,MALE,9.77528,-24.56481,
-Adelie Penguin (Pygoscelis adeliae),Dream,Yes,36.0,18.5,186.0,3100.0,FEMALE,9.50772,-25.03492,
-Adelie Penguin (Pygoscelis adeliae),Dream,Yes,39.5,16.7,178.0,3250.0,FEMALE,9.69756,-25.11223,
-Adelie Penguin (Pygoscelis adeliae),Biscoe,Yes,35.9,19.2,189.0,3800.0,FEMALE,9.22286,-25.03474,
-Adelie Penguin (Pygoscelis adeliae),Dream,Yes,37.2,18.1,178.0,3900.0,MALE,9.72764,-25.0102,
-Adelie Penguin (Pygoscelis adeliae),Dream,Yes,36.3,19.5,190.0,3800.0,MALE,8.57087,-26.22227,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,45.1,14.5,207.0,5050.0,FEMALE,7.97408,-25.53768,
-Adelie Penguin (Pygoscelis adeliae),Torgersen,Yes,34.6,17.2,189.0,3200.0,FEMALE,7.69778,-26.5387,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,50.4,15.7,222.0,5750.0,MALE,8.30166,-26.04117,
-Chinstrap penguin (Pygoscelis antarctica),Dream,Yes,42.5,16.7,187.0,3350.0,FEMALE,9.36668,-24.45195,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,59.6,17.0,230.0,6050.0,MALE,7.76843,-25.6821,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,43.4,14.4,218.0,4600.0,FEMALE,8.23468,-26.18599,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,47.8,15.0,215.0,5650.0,MALE,7.92358,-25.48383,
-Adelie Penguin (Pygoscelis adeliae),Dream,Yes,40.2,20.1,200.0,3975.0,MALE,8.95998,-26.32601,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,42.6,13.7,213.0,4950.0,FEMALE,7.96935,-26.70968,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,50.0,15.9,224.0,5350.0,MALE,8.20042,-26.39677,
-Adelie Penguin (Pygoscelis adeliae),Biscoe,Yes,35.5,16.2,195.0,3350.0,FEMALE,8.56192,-25.95541,
-Chinstrap penguin (Pygoscelis antarctica),Dream,Yes,45.4,18.7,188.0,3525.0,FEMALE,8.64701,-24.62717,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,48.7,15.1,222.0,5350.0,MALE,7.96491,-25.39587,
-Adelie Penguin (Pygoscelis adeliae),Torgersen,Yes,39.6,17.2,196.0,3550.0,FEMALE,8.33524,-26.55351,
-Adelie Penguin (Pygoscelis adeliae),Biscoe,Yes,35.0,17.9,192.0,3725.0,FEMALE,8.84451,-26.28055,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,43.3,13.4,209.0,4400.0,FEMALE,8.13643,-25.32176,
-Adelie Penguin (Pygoscelis adeliae),Dream,No,37.0,16.5,185.0,3400.0,FEMALE,8.61651,-26.07021,Nest never observed with full clutch.
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,43.5,15.2,213.0,4650.0,FEMALE,8.21634,-26.11046,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,50.2,14.3,218.0,5700.0,MALE,7.8962,-25.37746,
-Chinstrap penguin (Pygoscelis antarctica),Dream,No,50.0,19.5,196.0,3900.0,MALE,8.92069,-24.23592,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,50.8,15.7,226.0,5200.0,MALE,8.27102,-26.11244,
-Chinstrap penguin (Pygoscelis antarctica),Dream,Yes,50.8,18.5,201.0,4450.0,MALE,9.45827,-24.35575,
-Chinstrap penguin (Pygoscelis antarctica),Dream,Yes,49.7,18.6,195.0,3600.0,MALE,9.75486,-24.31198,
-Adelie Penguin (Pygoscelis adeliae),Dream,Yes,39.6,18.8,190.0,4600.0,MALE,9.49106,-24.10255,
-Chinstrap penguin (Pygoscelis antarctica),Dream,No,58.0,17.8,181.0,3700.0,FEMALE,9.14382,-24.57994,
-Gentoo penguin (Pygoscelis papua),Biscoe,Yes,50.4,15.3,224.0,5550.0,MALE,8.74647,-26.79846,
+Culmen Length (mm),Culmen Depth (mm),Flipper Length (mm),Body Mass (g),Delta 15 N (o/oo),Delta 13 C (o/oo),Island,Clutch Completion,Sex,Species
+43.3,14.0,208.0,4575.0,8.4207,-26.38092,1,0,1,2
+45.2,17.8,198.0,3950.0,8.88942,-24.49433,2,0,1,1
+49.5,16.1,224.0,5650.0,8.83352,-25.69195,1,0,0,2
+47.6,14.5,215.0,5400.0,8.2345,-25.54456,1,0,0,2
+49.4,15.8,216.0,4925.0,8.03624,-26.06594,1,0,0,2
+40.8,18.4,195.0,3900.0,,,2,0,0,0
+41.1,17.6,182.0,3200.0,,,0,0,1,0
+35.6,17.5,191.0,3175.0,8.75984,-25.97696,2,0,1,0
+39.5,16.7,178.0,3250.0,9.69756,-25.11223,2,0,1,0
+46.9,16.6,192.0,2700.0,9.80589,-24.73735,2,1,1,1
+49.8,15.9,229.0,5950.0,8.29226,-26.21019,1,0,0,2
+38.6,17.2,199.0,3750.0,8.77322,-26.48973,1,0,1,0
+40.3,18.5,196.0,4350.0,8.39459,-26.01152,2,0,0,0
+36.6,17.8,185.0,3700.0,,,0,0,1,0
+49.9,16.1,213.0,5400.0,8.3639,-26.15531,1,0,0,2
+48.1,16.4,199.0,3325.0,9.46929,-24.48403,2,0,1,1
+50.4,15.3,224.0,5550.0,8.74647,-26.79846,1,0,0,2
+49.5,19.0,200.0,3800.0,9.63074,-24.34684,2,1,0,1
+39.0,18.7,185.0,3650.0,9.22033,-26.03442,2,0,0,0
+43.1,19.2,197.0,3500.0,8.86495,-26.1396,0,1,0,0
+41.4,18.6,191.0,3700.0,8.35396,-26.27853,1,0,0,0
+49.1,15.0,228.0,5500.0,8.65914,-25.79203,1,0,0,2
+39.7,17.7,193.0,3200.0,9.02657,-26.06203,1,0,1,0
+41.6,18.0,192.0,3950.0,8.85562,-26.09294,1,0,0,0
+52.0,18.1,201.0,4050.0,9.0233,-24.38933,2,0,0,1
+48.1,15.1,209.0,5500.0,8.45738,-26.22664,1,0,0,2
+46.8,14.3,215.0,4850.0,8.41151,-26.13832,1,0,1,2
+46.6,17.8,193.0,3800.0,8.95063,-24.59897,2,0,1,1
+42.0,19.5,200.0,4050.0,8.48095,-26.3146,1,0,0,0
+45.8,18.9,197.0,4150.0,8.18658,-26.45978,0,0,0,0
+50.5,15.2,216.0,5000.0,8.24691,-26.18466,1,0,1,2
+47.2,15.5,215.0,4975.0,8.30817,-26.21651,1,0,1,2
+46.4,17.8,191.0,3700.0,9.37369,-24.52896,2,0,1,1
+50.8,15.7,226.0,5200.0,8.27102,-26.11244,1,0,0,2
+40.2,17.0,176.0,3450.0,9.30722,-25.61039,0,0,1,0
+38.6,17.0,188.0,2900.0,9.18021,-25.77264,0,0,1,0
+45.1,14.5,215.0,5000.0,7.6322,-25.46569,1,0,1,2
+44.9,13.3,213.0,5100.0,8.45167,-26.89644,1,0,1,2
+39.0,17.1,191.0,3050.0,9.19031,-25.73722,0,0,1,0
+37.8,20.0,190.0,4250.0,9.51929,-25.69199,1,0,0,0
+51.3,18.2,197.0,3750.0,8.63701,-24.84059,2,0,0,1
+51.3,19.2,193.0,3650.0,9.29078,-24.7557,2,0,0,1
+46.2,14.9,221.0,5300.0,8.60092,-26.84374,1,0,0,2
+45.5,14.5,212.0,4750.0,8.15566,-26.22848,1,0,1,2
+47.5,14.2,209.0,4600.0,8.39299,-26.78733,1,0,1,2
+47.4,14.6,212.0,4725.0,8.19101,-26.24369,1,0,1,2
+42.3,21.2,191.0,4150.0,8.87988,-25.18543,2,0,0,0
+49.0,19.5,210.0,3950.0,9.53262,-24.66867,2,0,0,1
+42.7,18.3,196.0,4075.0,8.91434,-26.42018,1,0,0,0
+46.2,14.1,217.0,4375.0,8.30231,-25.96013,1,0,1,2
+48.5,17.5,191.0,3400.0,9.42666,-24.26375,2,0,0,1
+50.7,19.7,203.0,4050.0,9.93727,-24.59066,2,0,0,1
+36.7,19.3,193.0,3450.0,8.76651,-25.32426,0,0,1,0
+46.4,15.6,221.0,5000.0,8.35078,-26.70783,1,0,0,2
+50.0,15.9,224.0,5350.0,8.20042,-26.39677,1,0,0,2
+37.6,19.1,194.0,3750.0,9.108,-25.89677,1,0,0,0
+48.2,14.3,210.0,4600.0,7.6887,-25.50811,1,0,1,2
+36.2,17.2,187.0,3150.0,9.04296,-26.19444,0,1,1,0
+44.1,19.7,196.0,4400.0,9.2372,-24.52698,2,0,0,0
+50.5,19.6,201.0,4050.0,9.8059,-24.7294,2,0,0,1
+51.0,18.8,203.0,4100.0,9.23196,-24.17282,2,0,0,1
+36.8,18.5,193.0,3500.0,8.98705,-25.57647,2,0,1,0
+37.3,16.8,192.0,3000.0,9.06829,-25.85203,2,0,1,0
+35.0,17.9,190.0,3450.0,8.19539,-26.17213,1,0,1,0
+40.5,17.9,187.0,3200.0,8.08138,-25.49448,1,0,1,0
+38.6,21.2,191.0,3800.0,,,0,0,0,0
+35.2,15.9,186.0,3050.0,8.81668,-25.95399,0,0,1,0
+48.4,14.6,213.0,5850.0,7.8208,-25.48025,1,0,0,2
+44.9,13.8,212.0,4750.0,8.11238,-26.20372,1,0,1,2
+38.1,17.0,181.0,3175.0,9.79532,-25.27385,1,0,1,0

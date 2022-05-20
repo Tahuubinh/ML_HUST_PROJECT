@@ -2,7 +2,6 @@ Species,Island,Clutch Completion,Culmen Length (mm),Culmen Depth (mm),Flipper Le
 Adelie Penguin (Pygoscelis adeliae),Torgersen,Yes,39.1,18.7,181.0,3750.0,MALE,,
 Adelie Penguin (Pygoscelis adeliae),Torgersen,Yes,39.5,17.4,186.0,3800.0,FEMALE,8.94956,-24.69454
 Adelie Penguin (Pygoscelis adeliae),Torgersen,Yes,40.3,18.0,195.0,3250.0,FEMALE,8.36821,-25.33302
-Adelie Penguin (Pygoscelis adeliae),Torgersen,Yes,,,,,,,
 Adelie Penguin (Pygoscelis adeliae),Torgersen,Yes,36.7,19.3,193.0,3450.0,FEMALE,8.76651,-25.32426
 Adelie Penguin (Pygoscelis adeliae),Torgersen,Yes,39.3,20.6,190.0,3650.0,MALE,8.66496,-25.29805
 Adelie Penguin (Pygoscelis adeliae),Torgersen,No,38.9,17.8,181.0,3625.0,FEMALE,9.18718,-25.21799
@@ -338,7 +337,6 @@ Gentoo penguin (Pygoscelis papua),Biscoe,Yes,55.1,16.0,230.0,5850.0,MALE,8.08354
 Gentoo penguin (Pygoscelis papua),Biscoe,Yes,44.5,15.7,217.0,4875.0,.,8.04111,-26.18444
 Gentoo penguin (Pygoscelis papua),Biscoe,Yes,48.8,16.2,222.0,6000.0,MALE,8.33825,-25.88547
 Gentoo penguin (Pygoscelis papua),Biscoe,No,47.2,13.7,214.0,4925.0,FEMALE,7.99184,-26.20538
-Gentoo penguin (Pygoscelis papua),Biscoe,No,,,,,,,
 Gentoo penguin (Pygoscelis papua),Biscoe,Yes,46.8,14.3,215.0,4850.0,FEMALE,8.41151,-26.13832
 Gentoo penguin (Pygoscelis papua),Biscoe,Yes,50.4,15.7,222.0,5750.0,MALE,8.30166,-26.04117
 Gentoo penguin (Pygoscelis papua),Biscoe,Yes,45.2,14.8,212.0,5200.0,FEMALE,8.24246,-26.11969
