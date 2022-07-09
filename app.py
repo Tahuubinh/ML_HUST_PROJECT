@@ -26,7 +26,7 @@ warnings.filterwarnings('always')  # "error", "ignore", "always", "default", "mo
 ap = argparse.ArgumentParser()
 ap.add_argument("-a", "--algorithm", default="decision_tree",
     help="name of the algorithm will work")
-ap.add_argument("-d", "--dataset", default="train_0.5_valid_0.7_test",
+ap.add_argument("-d", "--dataset", default="data_nan_mean_no_Island",
     help="path to the dataset")
 ap.add_argument("-m", "--model", default="MyProcessModel",
     help="path to the output model")
