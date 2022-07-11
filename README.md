@@ -16,7 +16,7 @@ This repo contains our project in *Machine Learning and Data Mining* subject at 
 3. [Requirement](#Dependencies)
 4. [Installation](#INSTALLATION)
 5. [Quick use](#QUICK-USE)
-6. [DATA](#DATA-VISUALIZATION-AND-ENCODING-DATA)
+6. [Data Visualization and Encoding data](#DATA-VISUALIZATION-AND-ENCODING-DATA)
 ## Requirement
 **Programming language**: Python version 3.8 or greater  
 **Library**: scikit-learn, tensorflow, keras, matplotlib, pandas, numpy, seaborn, joblib 
